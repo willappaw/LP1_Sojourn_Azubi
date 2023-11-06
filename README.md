@@ -27,7 +27,7 @@ Through our analysis, we aim to unearth profound insights that can illuminate th
    - **Alternative Hypothesis (H1)**: Startups in specific locations tend to secure more funding during the specified period.
 
 3. **Hypothesis 3: Investor Profile and Startup Success**
-   -**Null Hypothesis (Ho)**: The choice of investor has no substantial effect on the success and funding received by startups.
+   - **Null Hypothesis (Ho)**: The choice of investor has no substantial effect on the success and funding received by startups.
    - **Alternative Hypothesis (H1)**: The involvement of certain investors is correlated with higher levels of funding and greater success for startups.
 
 4. **Hypothesis 4: Founding Team and Funding Stages**
