@@ -13,7 +13,7 @@ India, one of the world’s fastest-growing economies, has witnessed an extraord
 
 As a trainee working on this project, our mission is to unravel the complexities of the Indian startup ecosystem from 2019 to 2021. We are like explorers, navigating through a vast dataset that contains invaluable information about startup funding. Our main objective is to dissect this data, paying close attention to industry sectors, funding stages, geographical locations, and the intricate profiles of the companies involved. 
 
-Through our analysis, we aim to unearth profound insights that can illuminate the path for investment decisions. This means helping both established investors and budding entrepreneurs make informed choices in the world of startups. Moreover, our discoveries will enrich the collective knowledge of the startup landscape.
+Through our analysis, we aim to unearth profound insights that can illuminate the path for investment decisions. This means helping both established investors and budding entrepreneurs make informed choices in the world of startups. Moreover, our discoveries will enrich the collective knowledge of the startup landscape within the Indian ecosystem.
 
 
 # Hypothesis and Questions
@@ -40,3 +40,7 @@ Through our analysis, we aim to unearth profound insights that can illuminate th
 
 These hypotheses reflect the factors and relationships you can explore in your project based on your project description. They will guide your data analysis and help you draw meaningful insights about the Indian startup funding landscape from 2019 to 2021.
 
+# References
+1.	Sustainable Growth for Indian Start-ups in 2023 and Beyond | Zinnov
+
+2.	The Indian startup ecosystem: Drivers, challenges and pillars of support | ORF (orfonline.org)
