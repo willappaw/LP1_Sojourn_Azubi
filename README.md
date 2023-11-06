@@ -30,11 +30,11 @@ Through our analysis, we aim to unearth profound insights that can illuminate th
    - **Null Hypothesis (Ho)**: The choice of investor has no substantial effect on the success and funding received by startups.
    - **Alternative Hypothesis (H1)**: The involvement of certain investors is correlated with higher levels of funding and greater success for startups.
 
-4. **Hypothesis 4: Founding Team and Funding Stages**
+5. **Hypothesis 4: Founding Team and Funding Stages**
    - **Null Hypothesis (Ho)**: The number of founders in a startup does not significantly impact the stage of development reached or the funding received.
    - **Alternative Hypothesis (H1)**: Startups with a specific number of founders are more likely to reach advanced stages and secure higher funding.
 
-5. **Hypothesis 5: Industry and Success Stages**
+6. **Hypothesis 5: Industry and Success Stages**
    - **Null Hypothesis (Ho)**: The industry in which a startup operates is not related to its success stage or funding amount.
    - **Alternative Hypothesis (H1)**: The industry sector plays a role in determining the success stage and funding received by startups.
 
