@@ -1,46 +1,34 @@
 # LP1_Sojourn_Azubi
-![My Image](https://www.mercy.edu/sites/default/files/2020-07/iStock-1150199386.jpg)
+![My Image]https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A540%2F1*J_EXEmUkOcg-rgzJudUhZQ.png&tbnid=iawi0CCkgmoIsM&vet=12ahUKEwiigoil4OKCAxWTmicCHTr2BdgQMygSegUIARCSAQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ashiq0ashi%2Fthe-process-involved-in-data-analysis-involves-several-different-steps-54f543421e93&docid=JWw4H35hzVuvSM&w=540&h=320&q=data%20analysis&ved=2ahUKEwiigoil4OKCAxWTmicCHTr2BdgQMygSegUIARCSAQ
 
 # Exploring Trends in the Indian  Startup Funding ecosystem: A Data Analysis (2018-2021)
 
 # Business Understanding 
 
 # Introduction
-
 In the world of startups, success doesn't rest solely on the shoulders of the founder. It's a team effort, and it extends beyond the company itself to benefit the development of the entire country. As the saying goes, 'you're not just funding a startup, you're sowing the seeds of national progress.'
+India, one of the world’s fastest-growing economies, has witnessed an extraordinary surge in its start-up ecosystem over the past decade. This growth has been propelled by various factors, including increased funding availability, supportive government policies, and a pool of skilled talent. As a result, start-ups have emerged as crucial drivers of innovation and employment generation, contributing substantially to the country’s economic progress. In 2022, approximately 26,000 tech start-ups were operational in the country, and 89 of them valued at $1 billion each.
 
-India, one of the world’s fastest-growing economies, has witnessed an extraordinary surge in its start-up ecosystem over the past decade. This growth has been propelled by various factors, including increased funding availability, supportive government policies, and a pool of skilled talent. As a result, start-ups have emerged as crucial drivers of innovation and employment generation, contributing substantially to the country’s economic progress. In 2022, approximately 26,000 tech start-ups were operational in the country, and with 89 of them valued at $1 billion each. 
+**#Overview**
+To unravel the complexities of the Indian startup ecosystem from 2019 to 2021 and navigate through a vast dataset that contains invaluable information about startup funding. 
 
-As a trainee working on this project, our mission is to unravel the complexities of the Indian startup ecosystem from 2019 to 2021. We are like explorers, navigating through a vast dataset that contains invaluable information about startup funding. Our main objective is to dissect this data, paying close attention to industry sectors, funding stages, geographical locations, and the intricate profiles of the companies involved. 
+**#Objective**
+To dissect data to understand industry sectors, funding stages, geographical locations, and the intricate profiles of the companies involved and empower established investors and budding entrepreneurs make informed choices in the world of startups. 
 
-Through our analysis, we aim to unearth profound insights that can illuminate the path for investment decisions. This means helping both established investors and budding entrepreneurs make informed choices in the world of startups. Moreover, our discoveries will enrich the collective knowledge of the startup landscape within the Indian ecosystem.
+**#Data Understanding**
+Column names and description:
+Company/Brand: Name of the company/start-up
+Founded: Year start-up was founded
+Sector: Sector of service
+What it does: Description about Company
+Founders: Founders of the Company
+Investor: Investors
+Amount($): Raised fund
+Stage: Round of funding reached
 
 
-# Hypothesis and Questions
 
-1. **Hypothesis 1: Sector and Funding Amount** 
-   - **Null Hypothesis (Ho)**: The sector in which a startup operates has no significant impact on the amount of funding it receives.
-   - **Alternative Hypothesis (H1)**: Certain sectors are associated with higher levels of funding compared to others.
-
-2. **Hypothesis 2: Location and Funding Trends**
-   - **Null Hypothesis (Ho)**: The geographical location of a startup's headquarters does not influence its funding trends.
-   - **Alternative Hypothesis (H1)**: Startups in specific locations tend to secure more funding during the specified period.
-
-3. **Hypothesis 3: Investor Profile and Startup Success**
-   - **Null Hypothesis (Ho)**: The choice of investor has no substantial effect on the success and funding received by startups.
-   - **Alternative Hypothesis (H1)**: The involvement of certain investors is correlated with higher levels of funding and greater success for startups.
-
-5. **Hypothesis 4: Founding Team and Funding Stages**
-   - **Null Hypothesis (Ho)**: The number of founders in a startup does not significantly impact the stage of development reached or the funding received.
-   - **Alternative Hypothesis (H1)**: Startups with a specific number of founders are more likely to reach advanced stages and secure higher funding.
-
-6. **Hypothesis 5: Industry and Success Stages**
-   - **Null Hypothesis (Ho)**: The industry in which a startup operates is not related to its success stage or funding amount.
-   - **Alternative Hypothesis (H1)**: The industry sector plays a role in determining the success stage and funding received by startups.
-
-All hypothesis will be tested at 95% confidence level. The hypothesis and questions will serve as a guide for the data analysis and help draw meaningful insights about the Indian startup funding landscape from 2019 to 2021.
 
 # References
 1.	Sustainable Growth for Indian Start-ups in 2023 and Beyond | Zinnov
-
 2.	The Indian startup ecosystem: Drivers, challenges and pillars of support | ORF (orfonline.org)
