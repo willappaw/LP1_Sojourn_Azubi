@@ -26,7 +26,10 @@ Investor: Investors
 Amount($): Raised fund
 Stage: Round of funding reached
 
+Links to Data Analysis and Report
 
+Medium: https://medium.com/@woappaw.cos/0-introduction-3d7a93525898
+PowerBI Dashboardfile: https://app.powerbi.com/view?r=eyJrIjoiN2Q5YzAwZDItODZmNi00NjdmLTk5YTEtNDQ3YmIwZmJiZGU1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9 
 
 
 # References
