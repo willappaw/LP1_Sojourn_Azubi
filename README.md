@@ -29,7 +29,10 @@ Stage: Round of funding reached
 Links to Data Analysis and Report
 
 Medium: https://medium.com/@woappaw.cos/0-introduction-3d7a93525898
+<<<<<<< HEAD
 
+=======
+>>>>>>> f7b445268134a61d5fa128d6a3e78f2fdd6e6823
 PowerBI Dashboardfile: https://app.powerbi.com/view?r=eyJrIjoiN2Q5YzAwZDItODZmNi00NjdmLTk5YTEtNDQ3YmIwZmJiZGU1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9 
 
 
