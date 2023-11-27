@@ -1,4 +1,4 @@
-
+![facets-of-data-analytics](https://github.com/willappaw/LP1_Sojourn_Azubi/assets/149609967/9e93a191-80a9-4095-bf8a-8e279fbd1fa3)
 
 # Exploring Trends in the Indian  Startup Funding ecosystem: A Data Analysis (2018-2021)
 
