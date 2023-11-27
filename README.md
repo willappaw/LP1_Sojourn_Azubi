@@ -1,5 +1,6 @@
 # LP1_Sojourn_Azubi
-![My Image]https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A540%2F1*J_EXEmUkOcg-rgzJudUhZQ.png&tbnid=iawi0CCkgmoIsM&vet=12ahUKEwiigoil4OKCAxWTmicCHTr2BdgQMygSegUIARCSAQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2F%40ashiq0ashi%2Fthe-process-involved-in-data-analysis-involves-several-different-steps-54f543421e93&docid=JWw4H35hzVuvSM&w=540&h=320&q=data%20analysis&ved=2ahUKEwiigoil4OKCAxWTmicCHTr2BdgQMygSegUIARCSAQ
+
+![images](https://github.com/willappaw/LP1_Sojourn_Azubi/assets/149609967/420dfd29-15de-4f5f-90f6-9ef8807836fd)
 
 # Exploring Trends in the Indian  Startup Funding ecosystem: A Data Analysis (2018-2021)
 
@@ -29,10 +30,7 @@ Stage: Round of funding reached
 Links to Data Analysis and Report
 
 Medium: https://medium.com/@woappaw.cos/0-introduction-3d7a93525898
-<<<<<<< HEAD
 
-=======
->>>>>>> f7b445268134a61d5fa128d6a3e78f2fdd6e6823
 PowerBI Dashboardfile: https://app.powerbi.com/view?r=eyJrIjoiN2Q5YzAwZDItODZmNi00NjdmLTk5YTEtNDQ3YmIwZmJiZGU1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9 
 
 
